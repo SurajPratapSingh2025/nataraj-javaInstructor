@@ -1,0 +1,4 @@
+com\mainapp\SpringBootLoggingProj02UsingXmlApplication.class
+com\mainapp\rest\WishMessageOperationsController.class
+com\mainapp\rest\ArithmeticOperationController.class
+com\mainapp\ServletInitializer.class

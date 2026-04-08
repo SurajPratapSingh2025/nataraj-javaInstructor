@@ -1,0 +1,5 @@
+2026-04-08 02:02:36,192 [RMI TCP Connection(29)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2026-04-08 02:02:36,195 [RMI TCP Connection(29)-127.0.0.1] INFO  o.s.boot.tomcat.GracefulShutdown                   - Commencing graceful shutdown. Waiting for active requests to complete
+2026-04-08 02:02:36,196 [tomcat-shutdown] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-8080"]
+2026-04-08 02:02:36,231 [tomcat-shutdown] INFO  o.s.boot.tomcat.GracefulShutdown                   - Graceful shutdown complete
+2026-04-08 02:02:36,231 [RMI TCP Connection(29)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
